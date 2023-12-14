@@ -2,10 +2,8 @@
 
 
 <a href="https://www.instagram.com/jjic_sae_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-405DE6?style=social&logo=Instagram&logoColor=C13584"/>
-</a>
-<img src="https://img.shields.io/badge/dkwnsgur12@gmail.com-405DE6?style=social&logo=Gmail&logoColor=#EA4335"/>
-</a>
+<img src="https://img.shields.io/badge/Instagram-405DE6?style=social&logo=Instagram&logoColor=C13584"/></a>
+<img src="https://img.shields.io/badge/dkwnsgur12@gmail.com-405DE6?style=social&logo=Gmail&logoColor=#EA4335"/></a>
 <img src="https://img.shields.io/badge/YouTube-405DE6?style=social&logo=YouTube&logoColor=#FF0000"/>
 </a>
 
