@@ -3,22 +3,14 @@
 
 <a href="https://www.instagram.com/jjic_sae_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-405DE6?style=social&logo=Instagram&logoColor=C13584"/></a>
-<img src="https://img.shields.io/badge/dkwnsgur12@gmail.com-405DE6?style=social&logo=Gmail&logoColor=#EA4335"/></a>
+<img src="https://img.shields.io/badge/dkwnsgur12@gmail.com-405DE6?style=social&logo=Gmail&logoColor=#EA4335"/>
 <img src="https://img.shields.io/badge/YouTube-405DE6?style=social&logo=YouTube&logoColor=#FF0000"/>
-</a>
-
 <img src="https://img.shields.io/badge/Python-405DE6?style=social&logo=Python&logoColor=3776AB"/>
-</a>
 <img src="https://img.shields.io/badge/Pytorch-405DE6?style=social&logo=PyTorch&logoColor=#EE4C2C"/>
-</a>
 <img src="https://img.shields.io/badge/C++-405DE6?style=social&logo=C&logoColor=#00599C"/>
-</a>
 <img src="https://img.shields.io/badge/OpenCV-405DE6?style=social&logo=OpenCV&logoColor=#5C3EE8"/>
-</a>
 <img src="https://img.shields.io/badge/Blender-405DE6?style=social&logo=Blender&logoColor=#E87D0D"/>
-</a>
 <img src="https://img.shields.io/badge/ROS-405DE6?style=social&logo=ROS&logoColor=#22314E"/>
-</a>
 
 
 <!--
