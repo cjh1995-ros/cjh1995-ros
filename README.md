@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--<
-a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=000000"/></a> 
--->
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/label-000000?style=plastic&logo=#000000&logoColor=000000"/></a> 
+
 
 **cjh1995-ros/cjh1995-ros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
